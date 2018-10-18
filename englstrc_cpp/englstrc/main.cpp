@@ -10,6 +10,7 @@ struct Distance{
 
     };
 
+
 int main()
 {
     Distance d1,d3;              //определения двух переменных
